@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 17, 2018, 9:17:56 PM
+    Author     : buffa
+*/
+
+.BG-Button{
+    -fx-background-color: #6633ff 
+}
+
+.BG-Tab{
+    -fx-background-color: linear-gradient(#ADD8E6,#0000FF)
+}
+
+.BG-Left{
+    -fx-background-color: linear-gradient(#EA7CC4,#A10D6E)
+}
